@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black !important;
+}
+p{
+    color: white;
+}
+.icon-portifolio{
+    padding-left: 2px;
+}
+nav ul li {
+    margin-top: 5px;
+    margin-right: 0;
+    text-align: right;
+}
+.botao-watsaap {
+    color:green !important;
+    text-decoration: none !important;
+}
+.botao-watsaap:hover, .botao-linkedin:hover, .botao-git:hover{
+    font-size: 17px !important;
+}
+
+.botao-linkedin{
+    color:#0A66C2 !important;
+    text-decoration: none !important;
+}
+.botao-git{
+    color: #161B22 !important;
+    text-decoration: none !important;
+}
+
+.cabecalho{
+    font: normal 20pt Arial !important;
+    color: #adb8c4 !important;
+}
+h1{
+    color: #adb8c4 !important;
+}
+.container-foto-perfil{
+    margin-top: 5px ;
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0) !important;
+}
+.foto-perfil{
+    height: 30%;
+    width: auto;
+    max-width: 30%;
+    border-radius: 50%;
+}
+.sessao-foto-perfil{
+    background-color: rgb(0, 0, 0) !important;
+}
+main{
+    margin-top: 10px !important;
+    background-color: #000000 !important;
+}
+
+.container-sobre-min, p{
+    border-radius: 10px;
+    padding: 5px;  
+    text-align: left;
+}
+.container-sobre-min, h2{
+   text-align: center;
+}
+.grt{
+    text-align: right;
+    margin-right: 50px;
+}
+.sobreMinNome{
+    text-transform: uppercase;
+    color: #0A66C2;
+}
+.container-dos-projetos{
+    background-color: #000000;
+}
+.espaco-projetos{
+    margin-top: 10px!important;
+}
+.links-projetos{
+    text-decoration: none !important;
+}
+.links-projetos:hover{
+    font-size: 17px !important;
+}
+.contato{
+    padding-bottom: 40px;
+}
+
+footer{
+    margin-top: 10px !important;
+    background-color: #131212;
+    color: white;
+    height: 50px;
+    padding-top: 15px;
+    margin-bottom: 20px !important;
+    border-radius:20px 20px 0 0 ;
+    
+}
+
+
